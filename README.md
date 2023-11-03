@@ -1,1 +1,1 @@
-
+This project aims to develop a heart disease prediction model using logistic regression, a widely used statistical technique for binary classification tasks. The model will be trained on a dataset containing various health-related features and corresponding labels indicating the presence or absence of heart disease. The goal is to create a tool that can assist in early detection and risk assessment of heart disease.
